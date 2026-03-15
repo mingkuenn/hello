@@ -1,0 +1,6 @@
+.vscode
+build
+archive
+vcpkg_installed
+
+*pgm
