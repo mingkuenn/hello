@@ -1,5 +1,12 @@
 {
   "dependencies": [
-    "eigen3"
+    "eigen3",
+    {
+      "name": "hdf5",
+      "features": [
+        "cpp"
+      ]
+    },
+    "spdlog"
   ]
 }
