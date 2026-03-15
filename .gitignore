@@ -4,3 +4,4 @@ archive
 vcpkg_installed
 
 *pgm
+*.h5
